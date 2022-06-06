@@ -51,3 +51,14 @@ Now I'm studying at RS School on the course of front-end developmentю
 ```
 
 ---
+
+## Education:
+
+- Moscow Institute of Law (2005-2010): Lawyer;
+- GBOU DPO CENTER "Professional" (2020): Frontend development.
+
+---
+
+## Language:
+
+English-A1
