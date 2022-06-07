@@ -1,1 +1,1 @@
-https://va-len-tina.github.io/rsschool-cv/cv
+https://va-len-tina.github.io/rsschool-cv/
